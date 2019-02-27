@@ -1,4 +1,5 @@
-# FANET Groundstation / FANET Bodenstation
-Experimental code for FANET groundstation. Optimized for Rasperry Pi.
+# FANET Groundstation / FANET Bodenstation  forked from Betschi/FANET
 
-FANET Bodenstation. Optimiert für den Rasperry Pi.
+Experimental code for FANET groundstation. Optimized for ESP32/ESP8266 in Arduino
+
+FANET Bodenstation. Optimiert für ESP32/ESP8266 in Arduino
